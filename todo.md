@@ -1,4 +1,4 @@
-## todo list of flycss
+## TODO list of flycss
 
 1. translate ckstyle from python to nodejs(flycss)
 
