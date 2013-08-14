@@ -4,4 +4,4 @@
 
 2. put flycss into npm
 
-3. integrate flycss with gruntjs
+3. integrate flycss into gruntjs
