@@ -1,4 +1,4 @@
 flycss
 ======
 
-css should fly further
+CSS should fly further
