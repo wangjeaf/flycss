@@ -8,6 +8,6 @@
 
 4. build flycss nodejs website
 
-5. build flycss web service(ckservice|flyservice) on nodejs website
+5. build flyservice (flycss web service) based on nodejs website
 
 6. flyservice website, and charge for it
