@@ -8,4 +8,4 @@
 
 4. build flycss nodejs website
 
-5. build flycss web service(ckservice) on nodejs website
+5. build flycss web service(ckservice|flyservice) on nodejs website
