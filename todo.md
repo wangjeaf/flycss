@@ -11,3 +11,5 @@
 5. build flyservice (flycss web service) based on nodejs website
 
 6. flyservice website, and charge for it
+
+7. develop flycss GUI tools, built by HTML5 and node-webkit.
