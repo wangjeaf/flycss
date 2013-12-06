@@ -1,0 +1,27 @@
+{ 
+  "name": "flycss",
+  "description": "flycss",
+  "version": "0.0.1",
+  "author": "wangjeaf <wangjeaf@gmail.com>",
+  "contributors": [
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "keywords": [
+    "css",
+    "check",
+    "api"
+  ],
+  "repository": "git://github.com/wangjeaf/flycss",
+  "main": "index",
+  "bin": {
+    "flycss": "./bin/flycss"
+  },
+  "scripts": {
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  }
+}
